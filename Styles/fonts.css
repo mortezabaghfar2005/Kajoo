@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Montserrat Regular";
+    src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat Medium";
+    src: url("../fonts/Montserrat/Montserrat-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat Bold";
+    src: url("../fonts/Montserrat/Montserrat-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat Light";
+    src: url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins Regular";
+    src: url("../Fonts/Poppins/PoppinsLatin-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins Bold";
+    src: url("../Fonts/Poppins/Poppins\ Bold.ttf") format("truetype");
+}
+
+
+
+@font-face {
+    font-family: "OpenSans Regular";
+    src: url("../Fonts/Open_Sans/OpenSans_Condensed-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "OpenSans Light";
+    src: url("../Fonts/Open_Sans/OpenSans_Condensed-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Volkhov Regular";
+    src: url("../Fonts/Volkhov/Volkhov-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Volkhov Bold";
+    src: url("../Fonts/Volkhov/Volkhov-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "ProductSans";
+    src: url("../Fonts/ProductSans/ProductSans-Regular.ttf") format("truetype");
+}

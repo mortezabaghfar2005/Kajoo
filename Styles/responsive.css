@@ -1,0 +1,702 @@
+@media(max-width:1250px) {
+    .nav-item__btn {
+        display: none;
+    }
+
+    .right-content {
+        margin-left: 150px;
+    }
+
+    .header-title {
+        font-size: 37px;
+    }
+
+    .person-img {
+        margin-right: -175px;
+        width: 500px;
+        height: 500px;
+    }
+
+    .decore {
+        right: -5px;
+        bottom: -10px;
+    }
+
+    .Decore-img {
+        opacity: 0;
+        display: none;
+    }
+
+    .header-redtext {
+        font-size: 17px;
+    }
+
+    .category-title {
+        font-size: 30px;
+    }
+
+    .category-items {
+        gap: 68px;
+    }
+
+    .category img {
+        display: none;
+    }
+
+    .category-item__text {
+        font-size: 12px;
+    }
+
+    .Rectangle {
+        width: 250px;
+    }
+
+    .selling-title {
+        font-size: 30px;
+    }
+
+    .selling-information {
+        width: 250px;
+    }
+
+    .logos {
+        display: none;
+    }
+
+    .mask {
+        display: none;
+    }
+
+    .subscribe-btns {
+        margin-top: 0;
+    }
+
+    .message1 {
+        display: none;
+    }
+
+    .subscribe-border__title {
+        font-size: 25px;
+    }
+
+    .footer-content {
+        gap: 60px;
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media(max-width:992px) {
+    .navigation {
+        justify-content: space-around;
+    }
+
+    .right-content {
+        margin-left: 0;
+    }
+
+    .person-img {
+        width: 400px;
+        height: 400px;
+    }
+
+    .header-title {
+        font-size: 25px;
+        line-height: 45px;
+    }
+
+    .header-details {
+        margin-top: 20px;
+    }
+
+    .header-text {
+        font-size: 14px;
+    }
+
+    .header-redtext {
+        font-size: 15px;
+    }
+
+    .header-btn__logo {
+        margin-left: -13px;
+    }
+
+    .Decore-img {
+        display: none;
+    }
+
+    .category-items {
+        gap: 35px;
+    }
+
+    .category-item img {
+        width: 60px;
+    }
+
+    .category-item__title {
+        font-size: 15px;
+    }
+
+    .category-item__text {
+        font-size: 10px;
+    }
+
+
+    .decore {
+        display: none;
+    }
+
+    .Rectangle {
+        width: 200px;
+    }
+
+    .selling-information {
+        max-width: 200px;
+        height: 80px;
+    }
+
+    .selling-item__day {
+        margin-top: 25px;
+        margin-left: 10px;
+    }
+
+    .selling-item__details {
+        font-size: 12px;
+    }
+
+    .travel-information {
+        text-align: center;
+    }
+
+    .travel-content {
+        flex-direction: column;
+        gap: 170px;
+    }
+
+    .testimonials-title {
+        font-size: 35px;
+    }
+
+    .testimonials {
+        flex-direction: column;
+        gap: 80px;
+    }
+
+    .testimonials-left {
+        text-align: center;
+    }
+
+    .circles {
+        justify-content: center;
+    }
+
+    .subscribe-border__title {
+        font-size: 18px;
+        line-height: 40px;
+    }
+
+    .subscribe-input {
+        width: 300px;
+        padding: 0 60px;
+    }
+
+    .subscribe-btn {
+        font-size: 15px;
+        width: 145px;
+    }
+
+    #message {
+        margin-right: 385px;
+    }
+}
+
+@media(max-width:768px) {
+    .right-content {
+        display: none;
+    }
+
+    .left-content img {
+        display: block;
+        margin-right: -45px;
+        margin-top: -25px;
+    }
+
+    .navigation {
+        flex-direction: row-reverse;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .header-title {
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .header-redtext {
+        font-size: 11px;
+    }
+
+    .header-text {
+        font-size: 9px;
+    }
+
+    .header-btn__link {
+        font-size: 10px;
+    }
+
+    .menu {
+        display: block;
+    }
+
+    .Decore-img {
+        display: none;
+    }
+
+    .person-img {
+        width: 300px;
+        height: 300px;
+        margin-left: -45px
+    }
+
+    .category-item {
+        max-width: 140px;
+    }
+
+    .category-item__title {
+        font-size: 8px;
+    }
+
+    .category-item__text {
+        font-size: 6px;
+    }
+
+    .selling-title {
+        font-size: 35px;
+    }
+
+    .selling-items {
+        display: flex;
+        justify-content: center;
+    }
+
+    .Rectangle {
+        width: 150px;
+    }
+
+    .selling-information {
+        width: 150px;
+    }
+
+    .selling-item__details {
+        font-size: 10px;
+    }
+
+    .selling-item__day {
+        margin-top: 35px;
+    }
+
+    .selling-logo__text {
+        font-size: 10px;
+    }
+
+    .travel-title {
+        font-size: 30px;
+    }
+
+    .subscribe-border__title {
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .subscribe-btns {
+        padding: 35px 5px;
+    }
+
+    .subscribe-border {
+        width: 500px;
+    }
+
+    .subscribe-border__title {
+        font-size: 10px;
+        margin-top: 20px;
+        line-height: 20px;
+    }
+
+    .subscribe-input {
+        width: 220px;
+        height: 50px;
+        padding: 0 45px;
+    }
+
+    .subscribe-btn {
+        font-size: 12px;
+        width: 100px;
+        height: 50px;
+    }
+
+    #message {
+        margin-right: 290px;
+        margin-top: 17px;
+    }
+
+    .subscribe {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media(max-width:576px) {
+
+    .left-content img {
+        margin-right: -60px;
+    }
+
+    .header-information {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .header-title {
+        font-size: 21px;
+    }
+
+    .header-text {
+        line-height: 20px;
+        font-size: 9px;
+    }
+
+    .header-btn__link {
+        font-size: 15px;
+    }
+
+    .header-btn {
+        justify-content: center;
+        margin-left: 45px;
+    }
+
+    .header-btn-text {
+        display: none;
+    }
+
+    .person-img {
+        margin-right: 0;
+    }
+
+    .category-items {
+        flex-direction: column;
+    }
+
+    .category-item img {
+        width: 120px;
+    }
+
+    .category-item__title {
+        font-size: 15px;
+    }
+
+    .category-item__text {
+        font-size: 11px;
+    }
+
+    .Rectangle {
+        width: 150px;
+    }
+
+    .selling-information {
+        max-width: 150px;
+        height: 72px;
+    }
+
+    .selling-items {
+        flex-direction: column;
+        align-items: center;
+        gap: 100px;
+    }
+
+    .travel-border {
+        height: 320px;
+    }
+
+    .travel-logo__text {
+        font-size: 11px;
+    }
+
+    .subscribe-border {
+        width: 300px;
+    }
+
+    .subscribe-border__title {
+        font-size: 9px;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .subscribe-input {
+        width: 200px;
+        height: 40px;
+        padding: 0 35px;
+        font-size: 12px;
+    }
+
+    #message {
+        margin-right: 255px;
+        margin-top: 13px;
+    }
+
+    .subscribe-btn {
+        font-size: 10px;
+        height: 40px;
+    }
+
+    .footer-center {
+        align-items: baseline;
+        margin-right: 35px;
+    }
+
+    .footer-title {
+        font-size: 15px;
+    }
+
+    .footer-item {
+        font-size: 12px;
+    }
+
+}
+
+@media(max-width:480px) {
+
+    .left-content img {
+        margin-right: -60px;
+        margin-bottom: 30px;
+    }
+
+    .person-img {
+        width: 230px;
+        height: 230px;
+        margin: 0 auto;
+    }
+
+    .header-information {
+        flex-direction: column-reverse;
+    }
+
+    .header-details {
+        text-align: center;
+    }
+
+    .header-redtext {
+        font-size: 8px;
+    }
+
+    .header-title {
+        font-size: 11px;
+        line-height: 25px;
+    }
+
+    .header-text {
+        font-size: 6px;
+    }
+
+    .header-btn {
+        justify-content: center;
+        margin-left: 25px;
+    }
+
+
+    .header-btn__link {
+        padding: 12px;
+        font-size: 10px;
+    }
+
+    .header-btn__logo img {
+        width: 80px;
+        margin-bottom: 8px;
+    }
+
+    .category {
+        margin-top: -100px;
+    }
+
+    .category-texe {
+        font-size: 14px;
+    }
+
+    .category-title {
+        font-size: 15px;
+    }
+
+    .category-item {
+        font-size: 14px;
+    }
+
+    .category-items {
+        margin-left: 0;
+        gap: 50px;
+    }
+
+    .selling-information {
+        height: 75px;
+    }
+
+    .selling-text {
+        font-size: 14px;
+    }
+
+    .selling-title {
+        font-size: 15px;
+    }
+
+    .selling-item__details {
+        gap: 12px;
+        justify-content: center;
+        font-size: 9px;
+    }
+
+    .selling-logo__text {
+        font-size: 9px;
+    }
+
+    .ongoing {
+        width: 200px;
+    }
+
+    .travel-text {
+        font-size: 14px;
+
+    }
+
+    .travel-title {
+        font-size: 15px;
+    }
+
+    .travel-logos {
+        gap: 25px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .travel-logo {
+        justify-content: center;
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .travel-logo__text {
+        font-size: 8px;
+    }
+
+    .travel-logo__title {
+        font-size: 14px;
+    }
+
+    .travel-details {
+        justify-content: center;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .travel-border {
+        width: 260px;
+    }
+
+    .travel-cart__title {
+        font-size: 14px;
+    }
+
+    .cart__text {
+        font-size: 13px;
+    }
+
+    .cart-people__text {
+        font-size: 14px;
+    }
+
+    .cart-logos {
+        gap: 10px;
+        padding: 0px 20px;
+    }
+
+    .ongoing {
+        width: 175px;
+        margin-left: 150px;
+    }
+
+    .ongoing-text {
+        margin-left: -35px;
+        font-size: 10px;
+    }
+
+    .ongoing-title {
+        font-size: 14px;
+    }
+
+    .travel-section {
+        margin-top: 100px;
+    }
+
+    .ongoing-line {
+        margin-left: 3px;
+    }
+
+    .testimonials-border__text {
+        font-size: 14px;
+    }
+
+    .testimonials-border1 {
+        width: 300px;
+        height: 260px;
+    }
+
+    .testimonials-border__text {
+        font-size: 12px;
+    }
+
+    .testimonials-information {
+        padding: 0 20px;
+    }
+
+    .testimonials-border__name {
+        font-size: 14px;
+    }
+
+    .testimonials-border__city {
+        font-size: 10px;
+    }
+
+    .testimonials-title {
+        font-size: 21px;
+    }
+
+    .message1 {
+        display: flex;
+        margin-left: 275px;
+        width: 40px;
+        margin-top: -25px;
+
+    }
+
+    .subscribe-btns {
+        padding: 30px 10px;
+    }
+
+    #message {
+        margin-right: 240px;
+    }
+
+    .footer-center {
+        gap: 10px;
+    }
+
+    .footer-logos__play {
+        display: flex;
+        gap: 12px;
+    }
+
+    .footer-email {
+        text-align: center;
+        font-size: 12px;
+    }
+
+}
