@@ -1,4 +1,4 @@
-# ![Kajoo](Images/logo/icons8-airplane-48.png)Kajoo
+# Kajoo
 
 ## In This Project I Used 'HTML', 'CSS'.
 
