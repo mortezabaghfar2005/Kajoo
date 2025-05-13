@@ -6,4 +6,4 @@
 
 <p>You Can See My Online Project</p>
 
-<a href="http://127.0.0.1:5500/">Online Project Kajoo</a>
+<a href="https://mortezabaghfar2005.github.io/Kajoo/">Online Project Kajoo</a>
